@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(35, 142, 111);
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+}
+/* text transform berfungsi memaksa huruf menjadi besar atau kecil dan lain lain */
+/* text indent untuk memberi spasi pada awal  */
+p {
+   text-indent: 5px; 
+   word-spacing: 10px;
+   /* word spacing mengatur jarak antar kata */
+}
+
+a {
+   text-decoration: none; 
+}
+

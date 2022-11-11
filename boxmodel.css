@@ -1,0 +1,35 @@
+/* div {
+    display: inline-block;
+} */
+
+
+/* Jika horizontal margin akan ditambahkan */
+.satu {
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+    /* margin-right: 30px; */
+    /* margin-left: 100px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+    margin-right: 50px; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dua {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    /* margin-left: 20px; */
+    margin: 50px auto;  
+    /* pada margin 50 px untuk jarak atas dan bawah , selain itu auto untuk kanan kiri */
+}
+
+.tiga {
+    width: 50px;
+    height: 50px;
+    background-color: violet;
+    margin: 10px 20px 30px 40px;
+    /* margin di atas dibaca atas 10, kanan 20, 30 bawah, kiri 40 */
+}

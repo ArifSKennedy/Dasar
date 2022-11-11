@@ -1,0 +1,20 @@
+/* , (Koma) disini adalah DAN  */
+h1, h2 {
+  color: lightblue;
+}
+
+
+/* css tolong pilihkan elemen a yang ada di dalam li yang ada di dalam ul */
+ul li a{
+   color:red;
+
+}
+
+
+#p1{
+    color:brown;
+}
+
+.p2{
+    color:blue;
+}

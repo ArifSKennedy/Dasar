@@ -1,0 +1,7 @@
+ul#berat li{
+    color: green;
+}
+
+ul#berat li.favorit {
+    color:blue;
+}

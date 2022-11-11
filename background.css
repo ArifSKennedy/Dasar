@@ -1,0 +1,8 @@
+body {
+    /* background-image: linear-gradient(135deg, white, lightgreen, darkblue); */
+    background-color: lightblue;
+    background-image: url(Gambar/bg1.jpg);
+    background-repeat: no-repeat;    
+    background-position: top right;
+
+}

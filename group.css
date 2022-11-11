@@ -1,0 +1,28 @@
+.header{
+    background-color: aquamarine;
+}
+
+.content{
+    background-color: springgreen;
+}
+
+.footer{
+    background-color: blueviolet;
+}
+
+.footer span{
+    color: red;
+}
+
+
+.header a{
+    display: inline-block;
+    font-size: 60px;
+}
+
+.header{
+    display: block;
+    width:600px;
+    height:600px;
+    background-color: aqua;
+}
